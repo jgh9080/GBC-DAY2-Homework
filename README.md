@@ -61,3 +61,10 @@
 ## 전망
 > 러스트는 Stack Overflow에서 진행된 프로그래밍 언어 인기투표에서 수년 연속 1위를 차지할 정도로 높은 인기를 가진 언어이다. 하지만 투표에 참여한 응답자 중 97%는 실제 업무에서 Rust를 사용하지 않는 것으로 나타났다. 또한 Rust를 배우려는 개발자가 많지 않고 Rust로 진행되는 대형 프로젝트가 없어 앞으로의 전망도 밝지 않을 것이라는 반응이도 있다.
 
+---
+
+# 참조
+https://zdnet.co.kr/view/?no=20200122110100
+https://m.blog.naver.com/sundooedu/221706592707
+https://lynlab.co.kr/blog/63
+https://zdnet.co.kr/view/?no=20200506165142
